@@ -1,0 +1,15 @@
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\CheapPurchasesSubscriber.exe.config
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\CheapPurchasesSubscriber.exe
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\CheapPurchasesSubscriber.pdb
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.ServiceBus.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.ServiceBus.xml
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\obj\Debug\CheapPurchasesSubscriber.csprojResolveAssemblyReference.cache
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\obj\Debug\CheapPurchasesSubscriber.exe
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\obj\Debug\CheapPurchasesSubscriber.pdb
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\WindowsAzureEventSource.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\WindowsAzureTelemetryEvents.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\MonAgentListener.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\20487A\Alfiles\TopicsDemo\CheapPurchasesSubscriber\CheapPurchasesSubscriber\bin\Debug\Microsoft.WindowsAzure.Configuration.xml

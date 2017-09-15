@@ -1,0 +1,15 @@
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\AuditSubscriber.exe.config
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\AuditSubscriber.exe
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\AuditSubscriber.pdb
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.ServiceBus.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.ServiceBus.xml
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\obj\Debug\AuditSubscriber.csprojResolveAssemblyReference.cache
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\obj\Debug\AuditSubscriber.exe
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\obj\Debug\AuditSubscriber.pdb
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\WindowsAzureEventSource.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\WindowsAzureTelemetryEvents.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\MonAgentListener.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\20487A\Alfiles\TopicsDemo\AuditSubscriber\AuditSubscriber\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
